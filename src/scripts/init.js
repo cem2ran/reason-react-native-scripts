@@ -14,7 +14,7 @@ const DEFAULT_DEPENDENCIES = {
   react: '16.4.2',
   'react-native': '0.55.4',
   'bs-platform': '^4.0.5',
-  'bs-react-native': '~0.9.0',
+  'rebolt': '~0.2.0',
   'reason-react': '~0.5.3',
 };
 
